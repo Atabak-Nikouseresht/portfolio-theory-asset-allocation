@@ -11,7 +11,7 @@ The report discusses return distributions, covariance and correlation, security 
 - **Report:** [`Portfolio_Theory_Exam-7_260908_112421.pdf`](Portfolio_Theory_Exam-7_260908_112421.pdf)
 - The report states that its daily dataset contains 1,305 observations and its monthly dataset 60 observations; it analyzes 131 NYSE and 80 Nasdaq securities.
 - The report is the only project artifact currently included. The original analysis code and input data are unavailable, so the reported calculations cannot be independently reproduced from this repository.
-- **Privacy note:** the PDF cover contains author contact details; this copy has not been altered.
+- **Privacy:** author contact details on the report cover are redacted in this public copy; the author names and academic content are retained.
 
 ## Academic context
 
